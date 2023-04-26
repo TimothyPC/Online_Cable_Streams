@@ -15,7 +15,7 @@
 
 
 
-<center><h2 style="background-color:cyan">24/7 Live Sports & Entertainment Channels<h2>
+<center><h2 style="background-color: #FAEBD7">24/7 Live Sports & Entertainment Channels<h2>
 <a href ="https://daddylivehd.sx/24-7-channels.php">
 <img src="https://www.barbourville.com/images/general/cable-tv-logos-820.jpg" alt="Italian Trulli">
 </a>
