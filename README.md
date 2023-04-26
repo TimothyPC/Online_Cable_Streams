@@ -1,5 +1,5 @@
 <center><h2 style="background-color:cyan"> Please Install Brave Private Web Browser First From The Link, or Use Your Own Ad Blocker <br>
-<center>Link</center> 
+<center><p>Link<p/></center> 
 </h2> </center>
 
    
