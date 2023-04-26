@@ -1,6 +1,6 @@
 <center><h2 style="background-color:cyan"> Please Install Brave Private Web Browser First From The Link, or Use Your Own Ad Blocker </h2> </center>
 
-   <center><h2 style="background-color:cyan"> Link </h2> </center> 
+   <center><h1 style="background-color:cyan"> Link </h1> </center> 
 
 <p style="font-size:140px; "> Any text whose font we want to change </p>
 
