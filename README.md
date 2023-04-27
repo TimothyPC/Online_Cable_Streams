@@ -14,7 +14,7 @@
  <br>
  <br>
 
-<a href = "https://daddylivehd.sx/24-7-channels.php"><span style="color: #ff0000;"><strong>
+<a href = "https://daddylivehd.sx/24-7-channels.php"><span style="color:  #696969;"><strong>
 24/7 Live Sports & Entertainment Channels
 </strong></span></a>
 
