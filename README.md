@@ -7,15 +7,15 @@
   <a href="https://play.google.com/store/apps/details?id=com.brave.browser&hl=en_US&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dbrave+apk&pcampaignid=APPU_1__U5HZJL9CJK6qtsPvpi5-AE
   "><img src="https://myinternetscout.com/wp-content/uploads/2019/12/brave-browser-version-1.0-review.jpg" alt="Italian Trulli">
    </a>
- </h2> 
-</center> 
+ 
+
 
  <br>
 
 
 
 
-<center><h2 style="background-color: #FAEBD7">24/7 Live Sports & Entertainment Channels<h2>
+24/7 Live Sports & Entertainment Channels
 <a href ="https://daddylivehd.sx/24-7-channels.php">
 <img src="https://www.barbourville.com/images/general/cable-tv-logos-820.jpg" alt="Italian Trulli">
 </a>
