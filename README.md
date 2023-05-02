@@ -11,7 +11,7 @@
  
  
  
- <br>
+ 
  
  
   <div>
@@ -21,7 +21,7 @@
           <h2><label data-toc-text="Rating" id="Rating">Our Best Live TV Streaming Services Rating</label></h2>
          </div>
          <div>
-          <p><b>#1</b> <a href="https://www.usnews.com/360-reviews/technology/streaming-services/hulu" target="_blank">Hulu + Live TV</a><br><b>#1&nbsp;</b><a href="https://www.usnews.com/360-reviews/technology/streaming-services/fubotv" target="_blank">fuboTV</a><br><b>#1</b> <a href="https://www.usnews.com/360-reviews/technology/streaming-services/youtube-tv" target="_blank">YouTube TV</a><br><b>#4</b> <a href="https://www.usnews.com/360-reviews/technology/streaming-services/philo" target="_blank">Philo</a><br><b>#5</b> <a href="https://www.usnews.com/360-reviews/technology/streaming-services/sling-tv" target="_blank">Sling TV</a><br><b>#5</b> <a href="https://www.usnews.com/360-reviews/technology/streaming-services/directv-stream" target="_blank">DirecTV Stream</a></p>
+          <p><b>#1</b> <a href="https://www.usnews.com/360-reviews/technology/streaming-services/hulu" target="_blank">Hulu + Live TV</a><br><p><b>#1&nbsp;</b><a href="https://www.usnews.com/360-reviews/technology/streaming-services/fubotv" target="_blank">fuboTV</a><br><p><b>#1</b> <a href="https://www.usnews.com/360-reviews/technology/streaming-services/youtube-tv" target="_blank">YouTube TV</a><br><p><b>#4</b> <a href="https://www.usnews.com/360-reviews/technology/streaming-services/philo" target="_blank">Philo</a><br><p><b>#5</b> <a href="https://www.usnews.com/360-reviews/technology/streaming-services/sling-tv" target="_blank">Sling TV</a><br><p><b>#5</b> <a href="https://www.usnews.com/360-reviews/technology/streaming-services/directv-stream" target="_blank">DirecTV Stream</a></p></p></p></p></p></p>
          </div>
          <div>
           <h2>Compare the Best Live TV Streaming Services</h2>
@@ -33,8 +33,8 @@
  
 
 
- <br>
- <br>
+ 
+ 
  <br>
 
 <a href = "https://daddylivehd.sx/24-7-channels.php"><span style="color:  #696969;"><strong>
