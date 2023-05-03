@@ -51,7 +51,7 @@
 </div>
          
           
- div class="grid-container" style="background-color: #4682B4" ><div class="grid-item"> <span style="color: #ff0000;"><strong>Our Best Live TV Streaming Services Rating</strong></span></a>
+ <div class="grid-container" style="background-color: #4682B4" ><div class="grid-item"> <span style="color: #ff0000;"><strong>Our Best Live TV Streaming Services Rating</strong></span></a>
 
 <br>
 
