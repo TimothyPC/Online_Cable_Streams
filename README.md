@@ -23,25 +23,25 @@
 
 
 
-  <div class="grid-container" style="background-color: #4682B4" ><div class="grid-item"><b>#1</b>   <a href="https://www.usnews.com/360-reviews/technology/streaming-services/hulu" target="_blank">Hulu + Live TV</a><strong>Hulu + Live TV</strong></span></a></div>
+  <div class="grid-container" style="background-color: #4682B4" ><div class="grid-item"><b>#1</b>   <a href="https://www.usnews.com/360-reviews/technology/streaming-services/hulu" target="_blank">Hulu + Live TV</a><strong></strong></span></a></div>
 
 
   
   
 
-<div class="grid-container" style="background-color: #4682B4" ><div class="grid-item">  <b>#1</b>  <a href="https://www.usnews.com/360-reviews/technology/streaming-services/fubotv" target="_blank">fuboTV</a><strong>fuboTV</strong></span></a></div>
+<div class="grid-container" style="background-color: #4682B4" ><div class="grid-item">  <b>#1</b>  <a href="https://www.usnews.com/360-reviews/technology/streaming-services/fubotv" target="_blank">fuboTV</a><strong></strong></span></a></div>
 
 
-<div class="grid-container" style="background-color: #4682B4" ><div class="grid-item"> <b>#1</b>   <a href="https://www.usnews.com/360-reviews/technology/streaming-services/youtube-tv" target="_blank" rel="noopener">YouTube TV<span style="color: #ff0000;"><strong>YouTube TV</strong></span></a></div>
+<div class="grid-container" style="background-color: #4682B4" ><div class="grid-item"> <b>#1</b>   <a href="https://www.usnews.com/360-reviews/technology/streaming-services/youtube-tv" target="_blank" rel="noopener"><span style="color: #ff0000;"><strong>YouTube TV</strong></span></a></div>
 
 
-<div class="grid-container" style="background-color: #4682B4" ><div class="grid-item"> <b>#4</b>  <a href="https://www.usnews.com/360-reviews/technology/streaming-services/philo" target="_blank" rel="noopener">Philo<span style="color: #ff0000;"><strong>Philo</strong></span></a></div>
+<div class="grid-container" style="background-color: #4682B4" ><div class="grid-item"> <b>#4</b>  <a href="https://www.usnews.com/360-reviews/technology/streaming-services/philo" target="_blank" rel="noopener">Philo<span style="color: #ff0000;"><strong></strong></span></a></div>
 
- <div class="grid-container" style="background-color: #4682B4" ><div class="grid-item"> <b>#5</b><a href="https://www.usnews.com/360-reviews/technology/streaming-services/sling-tv" target="_blank" rel="noopener">Sling TV <span style="color: #ff0000;"><strong>Sling TV</strong></span></a></div>
+ <div class="grid-container" style="background-color: #4682B4" ><div class="grid-item"> <b>#5</b><a href="https://www.usnews.com/360-reviews/technology/streaming-services/sling-tv" target="_blank" rel="noopener">Sling TV <span style="color: #ff0000;"><strong></strong></span></a></div>
 
   
 
-<div class="grid-container" style="background-color: #4682B4" ><div class="grid-item"> <b>#5</b><a href="https://www.usnews.com/360-reviews/technology/streaming-services/directv-stream" target="_blank" rel="noopener">DirectTV Stream <span style="color: #ff0000;"><strong>DirectTV Stream</strong></span></a></div>
+<div class="grid-container" style="background-color: #4682B4" ><div class="grid-item"> <b>#5</b><a href="https://www.usnews.com/360-reviews/technology/streaming-services/directv-stream" target="_blank" rel="noopener"><span style="color: #ff0000;"><strong>DirectTV Stream</strong></span></a></div>
 
   
    
