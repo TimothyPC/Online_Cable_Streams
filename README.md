@@ -10,7 +10,7 @@
  
  
  
-  <div class="grid-container" style="background-color: #4682B4" ><div class="grid-item"><a href="https://www.usnews.com/360-reviews/technology/streaming-services/best-live-tv-streaming-services" target="_blank" rel="noopener"><span style="color: #ff0000;"><strong>We’ve ranked the Best Live TV Streaming Services of 2023, and providers such as YouTube TV, Hulu + Live TV, and Philo TV all made our list. Keep reading to find out more about what each service has to offer.</strong></span></a>
+  <div class="grid-container" style="background-color: #4682B4" ><div class="grid-item"><a href="https://www.usnews.com/360-reviews/technology/streaming-services/best-live-tv-streaming-services" target="_blank" rel="noopener"><span style="color: #ff0000;"><strong>We’ve ranked the Best Live TV Streaming Services of 2023, and providers such as YouTube TV, Hulu + Live TV, and Philo TV all made our list. Keep reading to find out more about what each service has to offer.</strong></span></a></div>
 
 <br>
 
@@ -26,19 +26,19 @@
 
 
 
-  <div class="grid-container" style="background-color: #4682B4" ><div class="grid-item"><b>#1</b>   <a href="https://www.usnews.com/360-reviews/technology/streaming-services/hulu" target="_blank">Hulu + Live TV</a><strong></strong></span></a></div>
+  <div class="grid-container" style="background-color: #4682B4" ><div class="grid-item"><b>#1</b><a href="https://www.usnews.com/360-reviews/technology/streaming-services/hulu" target="_blank">Hulu + Live TV</a><strong></strong></span></a></div></div>
 
 
   
   
 
-<div class="grid-container" style="background-color: #4682B4" ><div class="grid-item">  <b>#1</b>  <a href="https://www.usnews.com/360-reviews/technology/streaming-services/fubotv" target="_blank">fuboTV</a><strong></strong></span></a></div>
+<div class="grid-container" style="background-color: #4682B4" ><div class="grid-item">  <b>#1</b>  <a href="https://www.usnews.com/360-reviews/technology/streaming-services/fubotv" target="_blank">fuboTV</a><strong></strong></span></a></div></div>
 
 
-<div class="grid-container" style="background-color: #4682B4" ><div class="grid-item"> <b>#1</b>   <a href="https://www.usnews.com/360-reviews/technology/streaming-services/youtube-tv" target="_blank" rel="noopener"><span style="color: #ff0000;"><strong>YouTube TV</strong></span></a></div>
+<div class="grid-container" style="background-color: #4682B4" ><div class="grid-item"> <b>#1</b>   <a href="https://www.usnews.com/360-reviews/technology/streaming-services/youtube-tv" target="_blank" rel="noopener"><span style="color: #ff0000;"><strong>YouTube TV</strong></span></a></div></div>
 
 
-<div class="grid-container" style="background-color: #4682B4" ><div class="grid-item"> <b>#4</b>  <a href="https://www.usnews.com/360-reviews/technology/streaming-services/philo" target="_blank" rel="noopener">Philo<span style="color: #ff0000;"><strong></strong></span></a></div>
+<div class="grid-container" style="background-color: #4682B4" ><div class="grid-item"> <b>#4</b>  <a href="https://www.usnews.com/360-reviews/technology/streaming-services/philo" target="_blank" rel="noopener">Philo<span style="color: #ff0000;"><strong></strong></span></a></div></div>
 
  <div class="grid-container" style="background-color: #4682B4" ><div class="grid-item"> <b>#5</b><a href="https://www.usnews.com/360-reviews/technology/streaming-services/sling-tv" target="_blank" rel="noopener">Sling TV <span style="color: #ff0000;"><strong></strong></span></a></div>
 
@@ -53,7 +53,7 @@
 
          
           
- <div class="grid-container" style="background-color: #4682B4" ><div class="grid-item"> <span style="color: #ff0000;"><strong>TV Streaming</strong></span></a>
+ <div class="grid-container" style="background-color: #4682B4" ><div class="grid-item"> <span style="color: #ff0000;"><strong>TV Streaming</strong></span></div>
 
 <br>
 
