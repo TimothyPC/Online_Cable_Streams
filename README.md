@@ -10,7 +10,7 @@
  
  
  
-  <div class="grid-container" style="background-color: #4682B4" ><div class="grid-item"><a href="https://www.usnews.com/360-reviews/technology/streaming-services/best-live-tv-streaming-services" target="_blank" rel="noopener"><span style="color: #ff0000;"><strong>We’ve ranked the Best Live TV Streaming Services of 2023, and providers such as YouTube TV, Hulu + Live TV, and Philo TV all made our list. Keep reading to find out more about what each service has to offer.</strong></span></a></div>
+  <a href="https://www.usnews.com/360-reviews/technology/streaming-services/best-live-tv-streaming-services" target="_blank" rel="noopener"><span style="color: #ff0000;"><strong>We’ve ranked the Best Live TV Streaming Services of 2023, and providers such as YouTube TV, Hulu + Live TV, and Philo TV all made our list. Keep reading to find out more about what each service has to offer.</strong></span></a>
 
 <br>
 
@@ -18,7 +18,7 @@
 <h2>Best Live TV Streaming Services Rating<h2>
          
    
-</div>
+
 
  
  
