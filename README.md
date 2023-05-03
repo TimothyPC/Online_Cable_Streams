@@ -22,10 +22,10 @@
 
  
  
-<a href="https://www.usnews.com/360-reviews/technology/streaming-services/hulu" target="_blank">Hulu + Live TV<span style="color: #ff0000;"><strong></strong></span></a>
+<a href="https://www.usnews.com/360-reviews/technology/streaming-services/hulu" target="_blank">Hulu + Live TV><span style="color: #ff0000;"><strong></strong></span></a>
 
 
-<a href="https://www.usnews.com/360-reviews/technology/streaming-services/fubotv" target="_blank">fuboTV</a><strong></strong></span></a>
+<a href="https://www.usnews.com/360-reviews/technology/streaming-services/fubotv" target="_blank">fuboTV<span><strong></strong></span></a>
 
 
 <a href="https://www.usnews.com/360-reviews/technology/streaming-services/youtube-tv" target="_blank" rel="noopener">YouTube TV<span style="color: #ff0000;"><strong></strong></span></a>
