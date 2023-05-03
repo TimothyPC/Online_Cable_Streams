@@ -31,7 +31,7 @@
 <a href="https://www.usnews.com/360-reviews/technology/streaming-services/youtube-tv" target="_blank" rel="noopener">#1 YouTube TV<span style="color: #ff0000;"><strong></strong></span></a> <br>
 
 
-<a href="https://www.usnews.com/360-reviews/technology/streaming-services/philo" target="_blank" rel="noopener">#4 Philo<span style="color: #ff0000;"><strong></strong</span></a> <br>
+<a href="https://www.usnews.com/360-reviews/technology/streaming-services/philo" target="_blank" rel="noopener">#4 Philo<span style="color: #ff0000;"><strong></strong></span></a> <br>
 
 
 <a href="https://www.usnews.com/360-reviews/technology/streaming-services/directv-stream" target="_blank" rel="noopener">#5 DirecTV Stream <span style="color: #ff0000;"><strong></strong></span></a> <br>
