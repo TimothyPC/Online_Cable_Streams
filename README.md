@@ -47,13 +47,13 @@
 <div class="grid-container" style="background-color: #4682B4" ><div class="grid-item"> <b>#5</b><a href="https://www.usnews.com/360-reviews/technology/streaming-services/directv-stream" target="_blank" rel="noopener"><span style="color: #ff0000;"><strong>DirectTV Stream</strong></span></a></div>
 </div>
   
- 
+ <br>
 
 
 
          
           
- <div class="grid-container" style="background-color: #4682B4" ><div class="grid-item"> <span style="color: #ff0000;"><strong>Our Best Live TV Streaming Services Rating</strong></span></a>
+ <div class="grid-container" style="background-color: #4682B4" ><div class="grid-item"> <span style="color: #ff0000;"><strong>TV Streaming Services </strong></span></a>
 
 <br>
 
