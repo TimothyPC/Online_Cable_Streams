@@ -53,7 +53,7 @@
 
          
           
- <div class="grid-container" style="background-color: #4682B4" ><div class="grid-item"> <span style="color: #ff0000;"><strong>TV Streaming Services </strong></span></a>
+ <div class="grid-container" style="background-color: #4682B4" ><div class="grid-item"> <span style="color: #ff0000;"><strong>TV Streaming</strong></span></a>
 
 <br>
 
@@ -64,7 +64,7 @@
 
  
  
- <br>
+ 
 
 <a href = "https://daddylivehd.sx/24-7-channels.php"><span style="color:  #696969;"><strong>
 24/7 Live Sports & Entertainment Channels
